@@ -2,11 +2,13 @@
 
 ### About
 
-Messaging Web3 App
+Messaging Web3 Dapp
 
 ### Technologies
 
 1. Solidity
+2. Hardhat
+3. Alchemy
 
 ### Links
 
