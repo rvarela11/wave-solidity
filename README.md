@@ -8,5 +8,7 @@ Messaging Web3 App
 
 1. Solidity
 
-Site - https://robertvarela.com/wave
-UI code - https://github.com/rvarela11/wave
+### Links
+
+- Site - https://robertvarela.com/wave
+- UI code - https://github.com/rvarela11/wave
